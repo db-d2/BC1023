@@ -26,21 +26,21 @@
 
 ## Course Description <a name="welcome"></a>
 
-The era of "big data" has transformed the commodification of a user's data. Coupled with the rise of "FemTech" mobile apps, big data has provided new insights and access for women around the world. However, the commodification and exploitation of data has created a new set of risks. This course will examine how data is used, dissemenated, secured, and protected. Course material will focus on data with respect to reproductive technology apps
+The era of "big data" has transformed the commodification of a user's data. Coupled with the rise of "FemTech" mobile apps, big data has provided new insights and access for women around the world. However, the commodification and exploitation of data has created a new set of risks. This course will examine how data is used, disseminated, secured, and protected. Course material will focus on data with respect to reproductive technology apps
 
 ### Learning Objectives <a name="objectives"></a>
 
-In this two week course you will learn:
+In this two-week course you will learn:
 
 - How reproductive technology apps (or FemTech) capture and utilize data
 - How data is packaged and sold
 - How law enforcement is accessing and using this data in a post Roe era
-- How data is targetted and stolen by criminals and state actors
+- How data is targeted and stolen by criminals and state actors
 - How to regain control over your data and explore frameworks for protecting users and their data
 
 ### Assignments <a name="assignments"></a>
 
-Each day will include a number of required readings followed by a short discussion post on courseworks. You are expected to come to class prepared to analyze and discuss each reading. In class participation accounts for 60% of your grade in this two week module.
+Each day will include a number of required readings followed by a short discussion post on courseworks. You are expected to come to class prepared to analyze and discuss each reading. In class participation accounts for 60% of your grade in this two-week module.
 
 **Extra Credit**
 
@@ -89,7 +89,7 @@ At the end of the course, you may choose to review one or several apps running o
 * How could law enforcement misuse or abuse data gained from resellers? What are the implications when a warrant is no longer needed? 
 * What implications does this have for FemTech applications? Does this reduce their effective benefits to women globally?
 * How might data sharing among applications present a risk to women in a post Roe era?
-* How can location data be misused by law enforcement to prosecute women - even those who didn't have abortions? What potential does this have to impact minority or working class women?
+* How can location data be misused by law enforcement to prosecute women - even those who didn't have abortions? What potential does this have to impact minority or low income women?
 * While this is only a small subset of "Data Privacy" you should come away from this with a better understanding of the types of data collected, how it's used/sold, and the potential risks behind collection of that data.
 
 
@@ -110,9 +110,9 @@ At the end of the course, you may choose to review one or several apps running o
 
 **Learning goals:**
 
-* Given the rise of cyberattacks targetting data, what are the risks of collecting data even when data isn't sold or given to 3rd-parties?
+* Given the rise of cyberattacks targeting data, what are the risks of collecting data even when data isn't sold or given to 3rd-parties?
 * What are some reasons that criminals or nation states might target data from FemTech applications?
-* What incentives do companies have (if any) to secure your data? Are the current fines or regulations adequate in detering irresponsible data security policies?
+* What incentives do companies have (if any) to secure your data? Are the current fines or regulations adequate in deterring irresponsible data security policies?
 * This is just a surface level introduction to cybersecurity and data security but you should ultimately have a better understanding of how data can be misused even when it's not being commoditized. 
 
 
