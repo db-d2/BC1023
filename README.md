@@ -5,9 +5,9 @@
 
 <font size= "4">Summer B, 2023 | TR 9am-12pm ET<br>
 
-## Course Description <a name="welcome"></a><br>
+## Course Description
 
-### Learning Objectives <a name="objectives"></a><br>
+### Learning Objectives
 
 ### Assignments <a name="assignments"></a><br>
 
