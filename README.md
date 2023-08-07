@@ -2,6 +2,7 @@
 <font size= "7">DATA PRIVACY IN FEMTECH</font>
 
 ![femtech](images/femtech.png)
+
 <font size= "4">Summer B, 2023 | TR 9am-12pm ET
 
 ***
