@@ -1,9 +1,9 @@
-<font size= "4">ENGL-BC1023</font>
-<font size= "7">DATA PRIVACY IN FEMTECH</font>
+<font size= "4">ENGL-BC1023</font><br>
+<font size= "7">DATA PRIVACY IN FEMTECH</font><br>
 
-![femtech](images/femtech.png)
+![femtech](images/femtech.png)<br>
 
-<font size= "4">Summer B, 2023 | TR 9am-12pm ET
+<font size= "4">Summer B, 2023 | TR 9am-12pm ET<br>
 
 ***
 
