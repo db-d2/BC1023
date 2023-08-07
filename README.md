@@ -103,9 +103,9 @@ At the end of the course, you may choose to review one or several apps running o
 **Readings:**
 
 * For 2nd Time in 3 Years, Mobile Spyware Maker MSpy Leaks Millions of Sensitive Records – Krebs on Security. 4 Sept. 2018, [https://krebsonsecurity.com/2018/09/for-2nd-time-in-3-years-mobile-spyware-maker-mspy-leaks-millions-of-sensitive-records/](https://krebsonsecurity.com/2018/09/for-2nd-time-in-3-years-mobile-spyware-maker-mspy-leaks-millions-of-sensitive-records/).
-* “Major” Data Breaches from Insecure Mobile Apps Likely - Document - Gale General OneFile. [https://go.gale.com/ps/i.do?p=ITOF&u=columbiau&id=GALE|A275440957&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=ITOF&u=columbiau&id=GALEA275440957&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
-* Sen. Franken Presses Federal Officials to Crack Down on “Stalking Apps” in Wake of MSpy App Data Breach - Document - Gale OneFile: News. [https://go.gale.com/ps/i.do?p=STND&u=columbiau&id=GALEA414291300&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=STND&u=columbiau&id=GALE|A414291300&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
-* [OPTIONAL] Under Armour Announces Data Breach, Affecting 150 Million MyFitnessPal App Accounts - Document - Gale In Context: Opposing Viewpoints. [https://go.gale.com/ps/i.do?p=OVIC&u=columbiau&id=GALEA532777187&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=OVIC&u=columbiau&id=GALE|A532777187&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
+* “Major” Data Breaches from Insecure Mobile Apps Likely - Document - Gale General OneFile. [https://go.gale.com/ps/i.do?p=ITOF&u=columbiau&id=GALE\|A275440957&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=ITOF&u=columbiau&id=GALE\|A275440957&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
+* Sen. Franken Presses Federal Officials to Crack Down on “Stalking Apps” in Wake of MSpy App Data Breach - Document - Gale OneFile: News. [https://go.gale.com/ps/i.do?p=STND&u=columbiau&id=GALE\|A414291300&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=STND&u=columbiau&id=GALE\|A414291300&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
+* [OPTIONAL] Under Armour Announces Data Breach, Affecting 150 Million MyFitnessPal App Accounts - Document - Gale In Context: Opposing Viewpoints. [https://go.gale.com/ps/i.do?p=OVIC&u=columbiau&id=GALE\|A532777187&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=OVIC&u=columbiau&id=GALE\|A532777187&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
 * [OPTIONAL] The Great Fish Tank Hack. [https://cyberhound.com/the-great-fish-tank-hack/](https://cyberhound.com/the-great-fish-tank-hack/). Accessed 6 Aug. 2023.
 
 **Learning goals:**
@@ -125,7 +125,7 @@ At the end of the course, you may choose to review one or several apps running o
 
 * Gerl, Armin, et al. “Let Users Control Their Data – Privacy Policy-Based User Interface Design.” Human Interaction and Emerging Technologies, edited by Tareq Ahram et al., Springer International Publishing, 2020, pp. 790–95. Springer Link, [https://doi.org/10.1007/978-3-030-25629-6_123](https://doi.org/10.1007/978-3-030-25629-6_123).
 * “Bellabeat Is First Period and Pregnancy Tracking App and Wearable to Implement Private Key Encryption (AES-256) Security Feature to Protect Women’s Data in the Wake of Roe Vs. Wade Overturn.” U.S. Newswire, 18 Aug. 2022. ProQuest, [https://www.proquest.com/docview/2703559588/citation/E9661CF1A16F41D8PQ/1](https://www.proquest.com/docview/2703559588/citation/E9661CF1A16F41D8PQ/1).
-* A NEW COMPACT FOR SEXUAL PRIVACY. - Document - Gale OneFile: LegalTrac. [https://go.gale.com/ps/i.do?p=LT&u=columbiau&id=GALEA666682274&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=LT&u=columbiau&id=GALE|A666682274&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
+* A NEW COMPACT FOR SEXUAL PRIVACY. - Document - Gale OneFile: LegalTrac. [https://go.gale.com/ps/i.do?p=LT&u=columbiau&id=GALE\|A666682274&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=LT&u=columbiau&id=GALE\|A666682274&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
 
 
 # Image Citations
