@@ -43,7 +43,7 @@
 
 #### Day 3 <a name="w2d3"></a>
 
-![data-security](images/mk_data-security.png){width="800" height="600" style="display: block; margin: 0 auto"}
+![data-security](images/data_security.png)
 
 #### Day 4 <a name="w2d4"></a>
 
