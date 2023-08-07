@@ -5,6 +5,9 @@
 
 <font size= "4">Summer B, 2023 | TR 9am-12pm ET<br>
 
+---
+<br>
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [Course Description ](#course-description-)
