@@ -89,7 +89,7 @@ At the end of the course, you may choose to review one or several apps running o
 * How could law enforcement misuse or abuse data gained from resellers? What are the implications when a warrant is no longer needed? 
 * What implications does this have for FemTech applications? Does this reduce their effective benefits to women globally?
 * How might data sharing among applications present a risk to women in a post Roe era?
-* How can location data be misused by law enforcement to prosecute women - even those who didn't have abortions? What potential does this have to impact minority or low income women?
+* How can location data be misused by law enforcement to prosecute women - even those who didn't have abortions? What potential does this have to impact minority or low-income women?
 * While this is only a small subset of "Data Privacy" you should come away from this with a better understanding of the types of data collected, how it's used/sold, and the potential risks behind collection of that data.
 
 
