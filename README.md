@@ -3,11 +3,27 @@
 
 ![femtech](images/femtech.png)<br>
 
-<font size= "4">Summer B, 2023 | TR 9am-12pm ET<br>
+<font size= "4">Summer B, 2023 | TR 9am-12pm ET</font><br>
 
-## Course Description
+---
 
-### Learning Objectives
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+  - [Course Description ](#course-description-)
+    - [Learning Objectives ](#learning-objectives-)
+    - [Assignments ](#assignments-)
+  - [Weekly Schedule ](#weekly-schedule-)
+    - [Week 1 ](#week-1-)
+      - [Day 1 ](#day-1-)
+      - [Day 2 ](#day-2-)
+    - [Week 2 ](#week-2-)
+      - [Day 3 ](#day-3-)
+      - [Day 4 ](#day-4-)
+
+
+## Course Description <a name="welcome"></a><br>
+
+### Learning Objectives <a name="objectives"></a><br>
 
 ### Assignments <a name="assignments"></a><br>
 
