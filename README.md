@@ -1,9 +1,10 @@
-<font size= "4">ENGL-BC1023</font><br>
-<font size= "7">DATA PRIVACY IN FEMTECH</font><br>
+<font size= "4">ENGL-BC1023</font>
 
-![femtech](images/femtech.png)<br>
+<font size= "7">DATA PRIVACY IN FEMTECH</font>
 
-<font size= "4">Summer B, 2023 | TR 9am-12pm ET</font><br>
+![femtech](images/femtech.png)
+
+<font size= "4">Summer B, 2023 | TR 9am-12pm ET</font>
 
 ---
 
@@ -21,30 +22,30 @@
       - [Day 4 ](#day-4-)
 
 
-## Course Description <a name="welcome"></a><br>
+## Course Description <a name="welcome"></a>
 
-### Learning Objectives <a name="objectives"></a><br>
+### Learning Objectives <a name="objectives"></a>
 
-### Assignments <a name="assignments"></a><br>
+### Assignments <a name="assignments"></a>
 
-## Weekly Schedule <a name="schedule"></a><br>
+## Weekly Schedule <a name="schedule"></a>
 
-### Week 1 <a name="week1"></a><br>
+### Week 1 <a name="week1"></a>
 
-#### Day 1 <a name="w1d1"></a><br>
+#### Day 1 <a name="w1d1"></a>
 
-![big-data](images/big_data.png)<br>
+![big-data](images/big_data.png)
 
-#### Day 2 <a name="w1d2"></a><br>
+#### Day 2 <a name="w1d2"></a>
 
-![data-privacy](images/data_privacy.png)<br>
+![data-privacy](images/data_privacy.png)
 
-### Week 2 <a name="week2"></a><br>
+### Week 2 <a name="week2"></a>
 
-#### Day 3 <a name="w2d3"></a><br>
+#### Day 3 <a name="w2d3"></a>
 
-![data-security](images/data_security.png)<br>
+![data-security](images/data_security.png)
 
-#### Day 4 <a name="w2d4"></a><br>
+#### Day 4 <a name="w2d4"></a>
 
-![data-protection](./images/office1_graphic.png)<br>
+![data-protection](./images/office1_graphic.png)
