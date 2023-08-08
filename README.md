@@ -57,9 +57,14 @@ At the end of the course, you may choose to review one or several apps running o
 
 **Readings:**
 
-* French, Alice, et al. “Asia’s Femtech Revolution: The Quest for Better Women’s Health.” FT.Com, Mar. 2022. ProQuest, https://www.proquest.com/docview/2647606425/citation/BB07F33C3A7B4FE1PQ/1
-* Karlsson, Amanda. “A Room of One’s Own?: Using Period Trackers to Escape Menstrual Stigma.” Nordicom Review, vol. 40, no. s1, 2019, pp. 111–23. ProQuest, https://doi.org/10.2478/nor-2019-0017
-* The Rise of a New Category: Femtech. helloclue.com, https://helloclue.com/articles/culture/rise-new-category-femtech. Accessed 6 Aug. 2023.
+* French, Alice, et al. “Asia’s Femtech Revolution: The Quest for Better Women’s Health.” FT.Com, Mar. 2022. ProQuest, [https://www.proquest.com/docview/2647606425/citation/BB07F33C3A7B4FE1PQ/1](https://www.proquest.com/docview/2647606425/citation/BB07F33C3A7B4FE1PQ/1)
+* Karlsson, Amanda. “A Room of One’s Own?: Using Period Trackers to Escape Menstrual Stigma.” Nordicom Review, vol. 40, no. s1, 2019, pp. 111–23. ProQuest, [https://doi.org/10.2478/nor-2019-0017](https://doi.org/10.2478/nor-2019-0017)
+* The Rise of a New Category: Femtech. helloclue.com, [https://helloclue.com/articles/culture/rise-new-category-femtech](https://helloclue.com/articles/culture/rise-new-category-femtech). Accessed 6 Aug. 2023.
+
+**In class exercises:**
+
+* Group up in pairs and create your own FemTech application. How might you use location data to provide resources or services? How would you use symptom tracking or other biomedical data?
+* Discussion: Thinking back to "Vessel" how might you implement a "Women on Mobile" program?
 
 **Learning goals:**
 
@@ -67,7 +72,7 @@ At the end of the course, you may choose to review one or several apps running o
 * How might they be providing education or choice to women in regions where menstruation is taboo? 
 * How, if at all, does this technology facilitate safety or access?
 * What types of data might be sensitive?
-* Ultimately, I want you to come away from this with a sense of the benefits of data collection and how that data can be used to empower women. 
+* Ultimately, I want you to come away from this with a sense of the benefits of data collection and how that data can be used to help provide resources to users. 
 
 
 
@@ -82,6 +87,12 @@ At the end of the course, you may choose to review one or several apps running o
 * Cox, Joseph. “Data Broker Is Selling Location Data of People Who Visit Abortion Clinics.” Vice, 3 May 2022, [https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood](https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood).
 * Translated by Content Engine, L. L. C. "Lack of data protection in the U.S. facilitates abortion prosecution." CE Noticias Financieras, Aug 17, 2022. ProQuest, [http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/wire-feeds/lack-data-protection-u-s-facilitates-abortion/docview/2703849612/se-2](http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/wire-feeds/lack-data-protection-u-s-facilitates-abortion/docview/2703849612/se-2).
 * Tangalakis-Lippert, Katherine. "Facebook and Google are handing over user data to help police prosecute abortion seekers." Business Insider, Mar 05, 2023. ProQuest, [http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/newspapers/facebook-google-are-handing-over-user-data-help/docview/2782548340/se-2](http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/newspapers/facebook-google-are-handing-over-user-data-help/docview/2782548340/se-2).
+
+**In class discussions**
+
+* Thinking back to how low-income women were exploited for surrogacy, how might a surrogacy agency, in a country with little or no privacy regulations, abuse purchased ovulation and location data from a mobile app provider? What kind of regulations would you put in place to prevent this?
+* Make a case for ethically selling data. What types of data would you include and why? Who might purchase this data?
+* Can location data be misused by law enforcement agencies or even private groups? In what ways can location data or health data be used against a person of a subset of a population. Is there a potential for "false positives"? How or why?
 
 **Learning goals:**
 
@@ -108,6 +119,11 @@ At the end of the course, you may choose to review one or several apps running o
 * [OPTIONAL] Under Armour Announces Data Breach, Affecting 150 Million MyFitnessPal App Accounts - Document - Gale In Context: Opposing Viewpoints. [https://go.gale.com/ps/i.do?p=OVIC&u=columbiau&id=GALE\|A532777187&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=OVIC&u=columbiau&id=GALE\|A532777187&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
 * [OPTIONAL] The Great Fish Tank Hack. [https://cyberhound.com/the-great-fish-tank-hack/](https://cyberhound.com/the-great-fish-tank-hack/). Accessed 6 Aug. 2023.
 
+**In class discussions**
+
+* Are FemTech apps a healthcare technology? Should they be subject to the same regulations as healthcare providers (HIPPA)? Thinking back to day 1, how might this inhibit access to resources?
+* Why might a malicious party want to target FemTech data? 
+
 **Learning goals:**
 
 * Given the rise of cyberattacks targeting data, what are the risks of collecting data even when data isn't sold or given to 3rd-parties?
@@ -126,6 +142,17 @@ At the end of the course, you may choose to review one or several apps running o
 * Gerl, Armin, et al. “Let Users Control Their Data – Privacy Policy-Based User Interface Design.” Human Interaction and Emerging Technologies, edited by Tareq Ahram et al., Springer International Publishing, 2020, pp. 790–95. Springer Link, [https://doi.org/10.1007/978-3-030-25629-6_123](https://doi.org/10.1007/978-3-030-25629-6_123).
 * “Bellabeat Is First Period and Pregnancy Tracking App and Wearable to Implement Private Key Encryption (AES-256) Security Feature to Protect Women’s Data in the Wake of Roe Vs. Wade Overturn.” U.S. Newswire, 18 Aug. 2022. ProQuest, [https://www.proquest.com/docview/2703559588/citation/E9661CF1A16F41D8PQ/1](https://www.proquest.com/docview/2703559588/citation/E9661CF1A16F41D8PQ/1).
 * A NEW COMPACT FOR SEXUAL PRIVACY. - Document - Gale OneFile: LegalTrac. [https://go.gale.com/ps/i.do?p=LT&u=columbiau&id=GALE\|A666682274&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=LT&u=columbiau&id=GALE\|A666682274&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
+
+**In class discussions**
+
+* Think back to our discussions around eugenics, dwarfism, and down syndrome. If users are in control of their data, does that absolve companies from their duty to secure and protect data? Would a user centric focus on data protection put the onus on women when data is miused or leaked? Why or why not?
+* If you were to design a framework for data protection, what would it include? What would it not include?
+
+**Extra credit**
+
+[Extra credit](#assignments)
+
+* Share your findings!
 
 
 # Image Citations
