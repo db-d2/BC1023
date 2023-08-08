@@ -121,7 +121,7 @@ At the end of the course, you may choose to review one or several apps running o
 
 **In class discussions**
 
-* Are FemTech apps a healthcare technology? Should they be subject to the same regulations as healthcare providers (HIPPA)? Thinking back to day 1, how might this inhibit access to resources?
+* Are FemTech apps a healthcare technology? Should they be subject to the same regulations as healthcare providers (HIPAA)? Thinking back to day 1, how might this inhibit access to resources?
 * Why might a malicious party want to target FemTech data? 
 
 **Learning goals:**
