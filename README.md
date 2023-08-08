@@ -145,7 +145,7 @@ At the end of the course, you may choose to review one or several apps running o
 
 **In class discussions**
 
-* Think back to our discussions around eugenics, dwarfism, and down syndrome. If users are in control of their data, does that absolve companies from their duty to secure and protect data? Would a user centric focus on data protection put the onus on women when data is miused or leaked? Why or why not?
+* Think back to our discussions around eugenics, dwarfism, and down syndrome. If users are in control of their data, does that absolve companies from their duty to secure and protect data? Would a user centric focus on data protection put the onus on women when data is misused or leaked? Why or why not?
 * If you were to design a framework for data protection, what would it include? What would it not include?
 
 **Extra credit**
