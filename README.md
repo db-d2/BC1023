@@ -57,7 +57,7 @@ At the end of the course, you may choose to review one or several apps running o
 
 **Readings:**
 
-* French, Alice, et al. “Asia’s Femtech Revolution: The Quest for Better Women’s Health.” FT.Com, Mar. 2022. ProQuest, [https://www.proquest.com/docview/2647606425/citation/BB07F33C3A7B4FE1PQ/1](https://www.proquest.com/docview/2647606425/citation/BB07F33C3A7B4FE1PQ/1)
+* French, Alice, et al. “Asia’s Femtech Revolution: The Quest for Better Women’s Health.” FT.Com, Mar. 2022. ProQuest, [https://www.ft.com/content/55459493-cf69-450c-b9c1-0c356347de97](https://www.ft.com/content/55459493-cf69-450c-b9c1-0c356347de97)
 * Karlsson, Amanda. “A Room of One’s Own?: Using Period Trackers to Escape Menstrual Stigma.” Nordicom Review, vol. 40, no. s1, 2019, pp. 111–23. ProQuest, [https://doi.org/10.2478/nor-2019-0017](https://doi.org/10.2478/nor-2019-0017)
 * The Rise of a New Category: Femtech. helloclue.com, [https://helloclue.com/articles/culture/rise-new-category-femtech](https://helloclue.com/articles/culture/rise-new-category-femtech). Accessed 6 Aug. 2023.
 
@@ -83,10 +83,10 @@ At the end of the course, you may choose to review one or several apps running o
 
 **Readings:**
 
-* Scatterday, Allysan. “This Is No Ovary-Action: Femtech Apps Need Stronger Regulations to Protect Data and Advance Public Health Goals.” North Carolina Journal of Law & Technology, vol. 23, no. 3, 2022 2021, pp. 636–68.
+* Scatterday, Allysan. “This Is No Ovary-Action: Femtech Apps Need Stronger Regulations to Protect Data and Advance Public Health Goals.” North Carolina Journal of Law & Technology, vol. 23, no. 3, 2022 2021, pp. 636–68 [https://heinonline.org/HOL/P?h=hein.journals/ncjl23&i=659](https://heinonline.org/HOL/P?h=hein.journals/ncjl23&i=659).
 * Cox, Joseph. “Data Broker Is Selling Location Data of People Who Visit Abortion Clinics.” Vice, 3 May 2022, [https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood](https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood).
-* Translated by Content Engine, L. L. C. "Lack of data protection in the U.S. facilitates abortion prosecution." CE Noticias Financieras, Aug 17, 2022. ProQuest, [http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/wire-feeds/lack-data-protection-u-s-facilitates-abortion/docview/2703849612/se-2](http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/wire-feeds/lack-data-protection-u-s-facilitates-abortion/docview/2703849612/se-2).
-* Tangalakis-Lippert, Katherine. "Facebook and Google are handing over user data to help police prosecute abortion seekers." Business Insider, Mar 05, 2023. ProQuest, [http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/newspapers/facebook-google-are-handing-over-user-data-help/docview/2782548340/se-2](http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/newspapers/facebook-google-are-handing-over-user-data-help/docview/2782548340/se-2).
+* Tangalakis-Lippert, Katherine. “Police Are Prosecuting​ Abortion Seekers Using Their Digital Data — and Facebook and Google Help Them Do It.” Business Insider, [https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2](https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2). Accessed 14 Aug. 2023.
+.
 
 **In class discussions**
 
@@ -140,13 +140,19 @@ At the end of the course, you may choose to review one or several apps running o
 **Readings:**
 
 * Gerl, Armin, et al. “Let Users Control Their Data – Privacy Policy-Based User Interface Design.” Human Interaction and Emerging Technologies, edited by Tareq Ahram et al., Springer International Publishing, 2020, pp. 790–95. Springer Link, [https://doi.org/10.1007/978-3-030-25629-6_123](https://doi.org/10.1007/978-3-030-25629-6_123).
-* “Bellabeat Is First Period and Pregnancy Tracking App and Wearable to Implement Private Key Encryption (AES-256) Security Feature to Protect Women’s Data in the Wake of Roe Vs. Wade Overturn.” U.S. Newswire, 18 Aug. 2022. ProQuest, [https://www.proquest.com/docview/2703559588/citation/E9661CF1A16F41D8PQ/1](https://www.proquest.com/docview/2703559588/citation/E9661CF1A16F41D8PQ/1).
+* Bellabeat. Bellabeat Is First Period and Pregnancy Tracking App and Wearable to Implement Private Key Encryption (AES-256) Security Feature to Protect Women’s Data in the Wake of Roe Vs. Wade Overturn. [https://www.prnewswire.com/news-releases/bellabeat-is-first-period-and-pregnancy-tracking-app-and-wearable-to-implement-private-key-encryption-aes-256-security-feature-to-protect-womens-data-in-the-wake-of-roe-vs-wade-overturn-301608919.html](https://www.prnewswire.com/news-releases/bellabeat-is-first-period-and-pregnancy-tracking-app-and-wearable-to-implement-private-key-encryption-aes-256-security-feature-to-protect-womens-data-in-the-wake-of-roe-vs-wade-overturn-301608919.html). Accessed 15 Aug. 2023.
 * A NEW COMPACT FOR SEXUAL PRIVACY. - Document - Gale OneFile: LegalTrac. [https://go.gale.com/ps/i.do?p=LT&u=columbiau&id=GALE\|A666682274&v=2.1&it=r&sid=summon](https://go.gale.com/ps/i.do?p=LT&u=columbiau&id=GALE\|A666682274&v=2.1&it=r&sid=summon). Accessed 6 Aug. 2023
 
 **In class discussions**
 
 * Think back to our discussions around eugenics, dwarfism, and down syndrome. If users are in control of their data, does that absolve companies from their duty to secure and protect data? Would a user centric focus on data protection put the onus on women when data is misused or leaked? Why or why not?
 * If you were to design a framework for data protection, what would it include? What would it not include?
+
+**Learning goals**
+
+* How can you regain control over your data?
+* What does it look like when users are solely repsonsible for their own data protection?
+* This final day should leave you with the awareness and ability to be a good data steward and advocate for better data privacy and protection.
 
 **Extra credit**
 
